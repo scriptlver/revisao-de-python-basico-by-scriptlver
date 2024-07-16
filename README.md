@@ -1,7 +1,7 @@
 revisão que fiz nas férias com os conceitos básicos de python:
 - váriaveis
 - saída e operadores
-- estrtuturas condicionais
+- estruturas condicionais
 - operadores de comparação
 - estruturas de repetição
 - listas
@@ -9,4 +9,6 @@ revisão que fiz nas férias com os conceitos básicos de python:
 - strings
 - métodos
 - classes
-a parte de banco de dados não consegui colocar na revisão por ser mais díficil de explicar por ser mais detalhado.... mas vou tentar em breve! :)
+
+a parte de banco de dados não consegui colocar na revisão pois é mais díficil de explicar e também por ser mais detalhado.... mas vou fazer em breve! :)
+na revisão também tem algumas questões com suas respostas!
