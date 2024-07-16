@@ -1,0 +1,5 @@
+# 1. códigos iniciais (print + parentêses e aspas)
+print("Hello World!")
+print("Oi,Tudo bem?")
+print("Eu tenho 18 anos")
+print("Eu gosto de...")
