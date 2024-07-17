@@ -1,49 +1,49 @@
-### Revisão de Python que fiz nas férias com os conceitos mais básicos!
+### revisão de python que fiz nas férias com os conceitos básicos!
 
-### Conceitos Básicos de Python:
-1. **Variáveis**
-   - Declaração e atribuição de variáveis.
-   - Tipos de dados (inteiros, ponto flutuante, string, boolean...).
+### conceitos básicos de python:
+1. **variáveis**
+   - declaração e atribuição de variáveis.
+   - tipos de dados (inteiros, ponto flutuante, string, boolean...).
 
-2. **Entrada e Saída de Dados**
-   - Uso das funções `input()` e `print()`.
-   - Formatação de saída.
+2. **entrada e saída de dados**
+   - uso das funções `input()` e `print()`.
+   - formatação de saída.
 
-3. **Operadores**
-   - Aritméticos (+, -, *, /, //, %).
-   - Lógicos (and, or, not).
-   - Relacionais (>, <, ==, !=, >=, <=).
+3. **operadores**
+   - aritméticos (+, -, *, /, //, %).
+   - lógicos (and, or, not).
+   - relacionais (>, <, ==, !=, >=, <=).
 
-4. **Estruturas Condicionais**
+4. **estruturas condicionais**
    - `if`, `else`, `elif`.
-   - Uso de condições múltiplas.
+   - uso de condições múltiplas.
 
-5. **Operadores de Comparação**
-   - Detalhamento e exemplos de cada operador.
+5. **operadores de comparação**
+   - detalhamento e exemplos de cada operador.
 
-6. **Estruturas de Repetição**
+6. **estruturas de repetição**
    - `for` loops.
    - `while` loops.
-   - Controle de loops com `break`, `continue`.
+   - controle de loops com `break`, `continue`.
 
-7. **Listas**
-   - Criação e manipulação de listas.
-   - Acesso a elementos, fatiamento (slicing).
-   - Métodos de listas.
+7. **listas**
+   - criação e manipulação de listas.
+   - acesso a elementos, fatiamento (slicing).
+   - métodos de listas.
 
-8. **Estruturas de Dados**
-   - Dicionários: estrutura chave-valor.
-   - Tuplas: listas imutáveis.
-   - Conjuntos: estrutura de dados única e não ordenada.
+8. **estruturas de dados**
+   - dicionários: estrutura chave-valor.
+   - tuplas: listas imutáveis.
+   - conjuntos: estrutura de dados única e não ordenada.
 
-9. **Strings**
-   - Manipulação de strings.
-   - Métodos de strings (ex: `split()`, `join()`, `upper()`, `lower()`).
-   - Formatação de strings.
+9. **strings**
+   - manipulação de strings.
+   - métodos de strings (ex: `split()`, `join()`, `upper()`, `lower()`).
+   - formatação de strings.
 
-10. **Classes, Funções e Métodos**
-    - Definição de classes e objetos.
-    - Declaração e chamada de funções.
-    - Métodos de classe e métodos estáticos.
+10. **classes, funções e métodos**
+    - definição de classes e objetos.
+    - declaração e chamada de funções.
+    - métodos de classe e métodos estáticos.
 
 ### A parte referente a banco de dados não foi incluída na revisão devido à sua complexidade, mas pretendo revisá-la em breve.
