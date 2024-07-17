@@ -46,4 +46,4 @@
     - declaração e chamada de funções.
     - métodos de classe e métodos estáticos.
 
-### A parte referente a banco de dados não foi incluída na revisão devido à sua complexidade, mas pretendo revisá-la em breve.
+### a parte referente a banco de dados não foi incluída na revisão por ser mais complexa, mas pretendo revisá-la em breve.
